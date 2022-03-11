@@ -4,7 +4,7 @@
 
     <meta charset="utf-8">
     <link rel="icon" href="https://www.cebi.com/sites/default/files/favicon.ico">
-    <title>Web2</title>
+    <title>Weby2</title>
 
     <link rel="stylesheet" href="css/style.css" type="text/css" />
     <link rel="stylesheet" href="css/img.css" type="text/css" />
