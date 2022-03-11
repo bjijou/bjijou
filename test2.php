@@ -24,7 +24,7 @@
     <div id="container">
         <form action="includes/verification.php" method="POST" autocomplete="off">
             <p class="aligncenter"> <img src="img/cebi_logo.png" alt="CEBI"> </p>
-            <h1>PORTAL 22222</h1>
+            <h1>PORTAL2x2x2x2x2</h1>
             <label><b>Username(email)</b></label>
             <input type="email" name="username" placeholder="your cebi email" id="username" required>
             <label><b>Password</b></label>
